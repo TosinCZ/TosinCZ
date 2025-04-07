@@ -8,7 +8,7 @@ Hello! I'm a computer science student at the University of Nottingham. I have ha
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,haskell,git,c#,sql,junit,vscode,unity" />,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,haskell,git,csharp,sql,junit,vscode" />
 </p>
 
 ---
