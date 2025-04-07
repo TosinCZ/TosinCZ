@@ -1,10 +1,4 @@
 # ✨ Tosin Olasehinde-williams ✨
-
-<div align="center">
-  <h1>TITLE</h1>
-  <p>...</p>
-</div>
-
 ---
 
 ### About Me
@@ -20,11 +14,16 @@
 ---
 
 ### 🌸 Projects
-| Name | Description | Tech | Status |
+| Name | Description | Tech |
 |------|-------------|------|
-|  | | |
-|  |  | |
-|  |  |  |
+| --- |- |- |
+|  -|  -| -|
+|  -|  -| - |
+
+---
+###  🖥️ Currently working on
+
+
 
 ---
 
