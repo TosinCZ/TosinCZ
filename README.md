@@ -39,6 +39,3 @@ I am currently working with a group of 4 other people to both write JUnit test f
 
 ---
 
-#### 📊 Top LeetCode Solved Problems
-<!-- LEETCODE:START -->
-<!-- LEETCODE:END -->
