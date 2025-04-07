@@ -2,13 +2,13 @@
 ---
 
 ### About Me
-- 
+Hello! I'm a computer science student at the University of Nottingham. I have hands-on experience in app maintenance, cybersecurity, JUnit testing, game development, git, and risk management.
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,haskell,git,c#,sql,junit,vscode,unity" />,python,vscode" />
 </p>
 
 ---
