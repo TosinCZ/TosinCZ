@@ -9,22 +9,24 @@ Hello! I'm a computer science student at the University of Nottingham. I have ha
 ### 🛠️ Tech Stack
 Here are a few of the technolgies that I am confident in using. 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,haskell,git,cs,linux,sqlite,unity,junit,HTML" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,haskell,git,cs,linux,sqlite,gitlab,unity,junit,HTML" />
 </p>
 
 ---
-
+The following are a few of the larger projects I have completed.
 ### 🌸 Projects
 | Name | Description | Tech |
 |------|-------------|------|
-| --- |- |- |
-|  -|  -| -|
-|  -|  -| - |
+| Rougue-Like Game |A rogue-like game that utilises procedural generation and an A star algorithm to create a unique map and to allow enemies to navigate it. A save and load feature are also available |Unity, C# and VSStudio were used to create the game and draw.io to create various technical diagrams during planning |
+| Bowling Score Calculator |A program that calculates and displays the scores of a bowling game, given a list of the number of pins knocked out throughout the game. [Here](https://www.breakdownbowling.com/how-are-bowling-scores-calculated/) is a link to how this is calculated |This was coded in C and GitLab was used for version control|
+| Simple client and server|A very simple client and server, where the client can ask for a certain number of random quotes and the server will send it to them|C was used to code this project and GitLab was used for version control|
+| Mandlebrot set generator|A program, that when given a y and x coordinate range and the desired resolution, will print that area of an ascii version of the Mandlebrot set with the given resolution|Assembly and Komodo where used to code this project, and Gitlab was used for version control|
+| Decoding ARM instructions|A program that decodes binary into assembly code|C was used to code this and GitLab was used for version control|
 
 ---
+
 ###  🖥️ Currently working on
-
-
+I am currently working with a group of 4 other people to both write JUnit test files for a program that and use the results to rewrite the code. The program currently stores, displays and manages information about properties and landlords, as well as allows for ratings to be given to both. We are collaborating over GitLab and Teams, where we have use milestones, issues, version control, delegation, peer review and more to collaborate on this project.
 
 ---
 
