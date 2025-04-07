@@ -9,7 +9,7 @@ Hello! I'm a computer science student at the University of Nottingham. I have ha
 ### 🛠️ Tech Stack
 Here are a few of the technolgies that I am confident in using. 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,haskell,git,cs,linux,sqlite,unity,junit,vscode,HTML" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,haskell,git,cs,linux,sqlite,unity,junit,HTML" />
 </p>
 
 ---
