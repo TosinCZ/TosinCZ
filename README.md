@@ -28,7 +28,7 @@ The following are a few of the larger projects I have completed.
 ---
 
 ###  🖥️ Currently working on
-I am currently working with a group of 4 other people to both write JUnit test files for a program that and use the results to rewrite the code. The program currently stores, displays and manages information about properties and landlords, as well as allows for ratings to be given to both. We are collaborating over GitLab and Teams, where we have use milestones, issues, version control, delegation, peer review and more to collaborate on this project.
+I am currently working with a group of 4 other people to both write JUnit test files for a program that and use the results to rewrite the code. The program currently stores, displays and manages information about properties and landlords, as well as allows for ratings to be given to both. We are collaborating over GitLab and Teams, where we have use milestones, issues, version control, delegation, peer review and more to collaborate on this project. - Started 20th March 2025
 
 ---
 
