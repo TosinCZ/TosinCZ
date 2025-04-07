@@ -13,8 +13,10 @@ Here are a few of the technolgies that I am confident in using.
 </p>
 
 ---
-The following are a few of the larger projects I have completed.
+
 ### 🌸 Projects
+The following are a few of the larger projects I have completed.
+
 | Name | Description | Tech |
 |------|-------------|------|
 | Rougue-Like Game |A rogue-like game that utilises procedural generation and an A star algorithm to create a unique map and to allow enemies to navigate it. A save and load feature are also available |Unity, C# and VSStudio were used to create the game and draw.io to create various technical diagrams during planning |
@@ -30,7 +32,7 @@ I am currently working with a group of 4 other people to both write JUnit test f
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Contacts & Profiles
 <p align="center">
   <a href="https://leetcode.com/ConZ007" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://linkedin.com/in/tosin-olasehinde-williams" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
