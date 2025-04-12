@@ -15,7 +15,7 @@ Here are a few of the technolgies that I am confident in using.
 ---
 
 ### 🌸 Projects
-The following are a few of the larger projects I have completed.
+The following are a few of the larger projects I have completed. Any of these projects can be provided on request.
 
 | Name | Description | Tech |
 |------|-------------|------|
