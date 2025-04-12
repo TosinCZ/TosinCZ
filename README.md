@@ -19,7 +19,7 @@ The following are a few of the larger projects I have completed. Any of these pr
 
 | Name | Description | Tech | Repository |
 |------|-------------|------|------------|
-| Rougue-Like Game |A rogue-like game that utilises procedural generation and an A star algorithm to create a unique map and to allow enemies to navigate it. A save and load feature are also available |Unity, C# and VSStudio were used to create the game and draw.io to create various technical diagrams during planning |[Bad Omen]()|
+| Rougue-Like Game |A rogue-like game that utilises procedural generation and an A star algorithm to create a unique map and to allow enemies to navigate it. A save and load feature are also available |Unity, C# and VSStudio were used to create the game and draw.io to create various technical diagrams during planning |[Bad Omen](https://github.com/TosinCZ/BadOmen)|
 | Bowling Score Calculator |A program that calculates and displays the scores of a bowling game, given a list of the number of pins knocked out throughout the game. [Here](https://www.breakdownbowling.com/how-are-bowling-scores-calculated/) is a link to how this is calculated |This was coded in C and GitLab was used for version control||
 | Simple client and server|A very simple client and server, where the client can ask for a certain number of random quotes and the server will send it to them|C was used to code this project and GitLab was used for version control||
 | Mandlebrot set generator|A program, that when given a y and x coordinate range and the desired resolution, will print that area of an ascii version of the Mandlebrot set with the given resolution|Assembly and Komodo where used to code this project, and Gitlab was used for version control||
