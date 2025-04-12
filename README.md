@@ -35,7 +35,7 @@ I am currently working with a group of 4 other people to both write JUnit test f
 ### 🌐 Contacts & Profiles
 <p align="center">
   <a href="https://leetcode.com/ConZ007" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/tosin-olasehinde-williams-576352268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tosin-olasehinde-williams-576352268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tosinolasehindewilliams@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-DB7093?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
