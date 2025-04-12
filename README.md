@@ -2,7 +2,7 @@
 ---
 
 ### About Me
-Hello! I'm a computer science student at the University of Nottingham. I have hands-on experience in app maintenance, cybersecurity, JUnit testing, game development, git, and risk management.
+Hello! I'm a computer science student at the University of Nottingham. I have hands-on experience in app maintenance, backend development, cybersecurity, JUnit testing, game development, git, and risk management.
 
 ---
 
