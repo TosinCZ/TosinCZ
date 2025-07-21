@@ -24,13 +24,12 @@ The following are a few of the larger projects I have completed. Any of these pr
 | Simple client and server|A very simple client and server, where the client can ask for a certain number of random quotes and the server will send it to them|C was used to code this project and GitLab was used for version control||
 | Mandlebrot set generator|A program, that when given a y and x coordinate range and the desired resolution, will print that area of an ascii version of the Mandlebrot set with the given resolution|Assembly and Komodo where used to code this project, and Gitlab was used for version control||
 | Decoding ARM instructions|A program that decodes binary into assembly code|C was used to code this and GitLab was used for version control||
-
+| Database managing website| A webpage where you can add, retrieve and modify data from a database|This uses Java, HTML and CSS as well as Supabase to host the database |[Database Website](https://github.com/TosinCZ/CW-Backend) |
+| Othello | A recreation of the game Othello, you can either play with another person or against the ai bot | ||
 ---
 
 ###  🖥️ Currently working on
-Currently working with a group of 4 other people to both write JUnit test files for a program that and use the results to rewrite the code. The program currently stores, displays and manages information about properties and landlords, as well as allows for ratings to be given to both. We are collaborating over GitLab and Teams, where we have use milestones, issues, version control, delegation, peer review and more to collaborate on this project. - Started 20th March 2025
-
-Currently developing a Reversi game using Java and the Swing toolkit. The game features a user-friendly graphical interface and includes an AI option that performs the next best move. - Started 18th April 2025
+Currently working on a website that can track breast cancer cases to unify medical imaging, patient records, and visual notes into a single interface. - 21st July 2025
 
 ---
 
