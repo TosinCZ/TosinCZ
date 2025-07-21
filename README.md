@@ -25,7 +25,7 @@ The following are a few of the larger projects I have completed. Any of these pr
 | Mandlebrot set generator|A program, that when given a y and x coordinate range and the desired resolution, will print that area of an ascii version of the Mandlebrot set with the given resolution|Assembly and Komodo where used to code this project, and Gitlab was used for version control||
 | Decoding ARM instructions|A program that decodes binary into assembly code|C was used to code this and GitLab was used for version control||
 | Database managing website| A webpage where you can add, retrieve and modify data from a database|This uses JavaScript, HTML and CSS as well as Supabase to host the database |[Database Website](https://github.com/TosinCZ/Backend-CW) |
-| Othello | A recreation of the game Othello, you can either play with another person or against the ai bot | ||
+| Othello | A recreation of the game Othello, you can either play with another person or against the ai bot |Java is used|[Othello](https://github.com/TosinCZ/Othello)|
 ---
 
 ###  🖥️ Currently working on
