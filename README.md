@@ -29,8 +29,10 @@ The following are a few of the larger projects I have completed. Any of these pr
 ---
 
 ###  🖥️ Currently working on
-Currently working on a website that can track breast cancer cases to unify medical imaging, patient records, and visual notes into a single interface. - 21st July 2025
-
+Currently working on 
+- A website that can track breast cancer cases to unify medical imaging, patient records, and visual notes into a single interface.
+- An AI agent that plays Super Mario Bros.
+- An Operating System simulator.
 ---
 
 ### 🌐 Contacts & Profiles
