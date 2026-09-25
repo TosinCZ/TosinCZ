@@ -26,13 +26,12 @@ The following are a few of the larger projects I have completed. Any of these pr
 | Decoding ARM instructions|A program that decodes binary into assembly code|C was used to code this and GitLab was used for version control||
 | Database managing website| A webpage where you can add, retrieve and modify data from a database|This uses JavaScript, HTML and CSS as well as Supabase to host the database |[Database Website](https://github.com/TosinCZ/Backend-CW) |
 | Othello | A recreation of the game Othello, you can either play with another person or against the ai bot |Java is used|[Othello](https://github.com/TosinCZ/Othello)|
+| AI Super Mario Bros | An AI that uses a genetic algorithm alongside imitation learning to play Super Mario Bros |
 ---
 
 ###  🖥️ Currently working on
 Currently working on 
-- A website that can track breast cancer cases to unify medical imaging, patient records, and visual notes into a single interface.
-- An AI agent that plays Super Mario Bros.
-- An Operating System simulator.
+- A distributed database in Go from scratch, that implements the Raft consensus algorithm, a custom storage engine and automatic leader failover.
 ---
 
 ### 🌐 Contacts & Profiles
