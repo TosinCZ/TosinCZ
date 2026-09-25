@@ -31,7 +31,7 @@ The following are a few of the larger projects I have completed. Any of these pr
 
 ###  🖥️ Currently working on
 Currently working on 
-- A distributed database in Go from scratch, that implements the Raft consensus algorithm, a custom storage engine and automatic leader failover.
+- A distributed database in Go from scratch, that implements the Raft consensus algorithm, a custom storage engine and automatic leader failover. [Link to project](https://github.com/TosinCZ/neo)
 ---
 
 ### 🌐 Contacts & Profiles
